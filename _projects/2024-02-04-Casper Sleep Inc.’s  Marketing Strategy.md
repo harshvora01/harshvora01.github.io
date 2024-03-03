@@ -6,7 +6,7 @@ description:
 tags:
 categories:
 img:
-redirect: 
+redirect:
 thumbnail: assets/img/9.jpg
 images:
   compare: true

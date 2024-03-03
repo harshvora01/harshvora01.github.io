@@ -6,6 +6,8 @@ description:
 tags:
 categories:
 thumbnail: assets/img/9.jpg
+img:
+redirect: https://drive.google.com/file/d/159O33l9xHqowwh2jqBQ0LY34v-aK-Yf4/view?usp=share_link
 images:
   compare: true
   slider: true
