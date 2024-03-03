@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stressing over being productive?
-description: 
+description: “Be productive in this Quarantine”. Did you read/heard this somewhere or from someone too?
 img:
 redirect: https://mindcanopy.wordpress.com/2020/05/04/stressing-over-being-productive/
 importance: 3

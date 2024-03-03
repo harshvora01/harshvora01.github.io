@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Draw a line - Alive or living?
-description: 
+description: Hey, do you think we can define life? OK, we have formal definitions of “life”, I need to start using the dictionary one of these days. What a stupid question. Is it though? I mean, I am just in my twenties and I can without a second thought say that life is pretty uncertain. How can we accurately define something so erratic? Well, we can assuredly define life as unpredictable.
 img:
 redirect: https://mindcanopy.wordpress.com/2020/06/22/draw-a-line-alive-or-living/
 importance: 3

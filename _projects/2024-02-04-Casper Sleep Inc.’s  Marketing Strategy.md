@@ -5,6 +5,8 @@ date: 2024-01-27 11:46:00
 description:
 tags:
 categories:
+img:
+redirect: 
 thumbnail: assets/img/9.jpg
 images:
   compare: true

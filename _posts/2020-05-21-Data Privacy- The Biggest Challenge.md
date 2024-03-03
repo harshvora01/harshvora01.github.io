@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Privacy- The Biggest Challenge
-description:
+description: What is that one thing that every human being is insecure about? Some might say money, some might say their health and there are many possible answers. But they wont make it to the top of the list. One might ask what is on the top then? The answer is privacy. Ironically, privacy has secured the first position.
 img:
 redirect: https://mindcanopy.wordpress.com/2020/05/21/data-privacy-the-biggest-challenge/
 importance: 3
