@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 
+title:
 description:
 img: assets/img/fun/img7.jpeg
-redirect: 
+redirect:
 importance: 3
 category: work
 ---
