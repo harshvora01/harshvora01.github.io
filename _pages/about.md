@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 
@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> A Tech Enthusiast </p>
+    <p> A Tech Enthusiast, </p>
     <p> Formula 1 Fanatic, and Empathy Advocate! </p>
 ---
 
