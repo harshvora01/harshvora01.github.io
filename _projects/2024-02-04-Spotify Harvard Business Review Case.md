@@ -2,7 +2,7 @@
 layout: post
 title: Spotify Harvard Business Review Case
 date: 2024-01-27 11:46:00
-description:
+description: Analysis of the issues faced by Spotify during the Taylor Swift Controversy and Strategy for Spotify to win the battle.
 tags:
 categories:
 thumbnail: assets/img/9.jpg

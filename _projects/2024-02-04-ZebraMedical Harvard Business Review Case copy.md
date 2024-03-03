@@ -2,7 +2,7 @@
 layout: post
 title: ZebraMedical Harvard Business Review Case
 date: 2024-01-27 11:46:00
-description:
+description: Case Analysis for ZebraMedical. Navigating the probable challenges for the company’s AI after being granted the FDA approval. How it can emerge victorious and capitalize on the opportunities.
 tags:
 categories:
 thumbnail: assets/img/9.jpg

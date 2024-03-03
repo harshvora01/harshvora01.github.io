@@ -2,7 +2,7 @@
 layout: post
 title: HumaneAI – Contextual David Vs Spatial Goliath
 date: 2024-01-27 11:46:00
-description:
+description: Developed a Competitive strategy for HumaneAI to win in the Contextual AI space after the launch of Apple Vision Pro- the Spatial AI miracle.
 tags:
 categories:
 thumbnail: assets/img/9.jpg

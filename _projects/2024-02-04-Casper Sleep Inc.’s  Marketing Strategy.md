@@ -2,7 +2,7 @@
 layout: post
 title: Casper Sleep Inc.’s  Marketing Strategy
 date: 2024-01-27 11:46:00
-description:
+description: Designed a fun and effective marketing strategy for the newly developed Casper Mattress. This strategy will help Casper be the most reliable brand when it comes to peaceful and comfortable sleep
 tags:
 categories:
 img:

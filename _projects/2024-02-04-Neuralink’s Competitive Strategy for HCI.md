@@ -2,7 +2,7 @@
 layout: post
 title: Neuralink’s Competitive Strategy for HCI
 date: 2024-01-27 11:46:00
-description:
+description: Developed a competitive strategy for Neuralink after the announcement of their first Human trail of the brain chip. See how the strategy unfolds in different scenarios. Analysis - STEEP, SCQA, DOTS, Scenario Mapping, Horizon Strategy
 tags:
 categories:
 thumbnail: assets/img/9.jpg

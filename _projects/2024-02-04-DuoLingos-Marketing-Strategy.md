@@ -2,7 +2,7 @@
 layout: post
 title: DuoLingo’s Marketing Strategy
 date: 2024-01-27 11:46:00
-description:
+description: Developed a creative Marketing Strategy for Duolingo that will help the company capitalize on the market like never before.
 tags:
 categories:
 thumbnail: assets/img/9.jpg
