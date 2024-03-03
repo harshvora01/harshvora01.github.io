@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Casper Sleep Inc.’s Marketing Strategy
-date: 
+date: 2024-01-27 11:46:00
 description: 
 tags: formatting images
 categories: sample-posts
