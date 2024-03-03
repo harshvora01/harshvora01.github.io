@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Disney’s Competitive Strategy Against OpenAI’s Sora
-description: Developed a 6 Year Competitive Strategy for Disney to mitigate the risks posed by AI based video creation apps and emerge as a winner. Analysis STEEP, SCQA, DOTS, Scenario Mapping, Horizon Strategy
-img:
-redirect: https://drive.google.com/file/d/18UOMx18aA8OEtrtj5rPCAl460jxGbbdp/view?usp=share_link
+title: 
+description:
+img: assets/img/fun/img4.jpeg
+redirect: 
 importance: 3
 category: work
 ---

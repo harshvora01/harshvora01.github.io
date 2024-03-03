@@ -1,9 +1,9 @@
 ---
 layout: page
-title: ZebraMedical Harvard Business Review Case
-description: Case Analysis for ZebraMedical. Navigating the probable challenges for the company’s AI after being granted the FDA approval. How it can emerge victorious and capitalize on the opportunities.
-img:
-redirect: https://drive.google.com/file/d/1Xu3LY1IryNZ-NFXPb_zXty3N4_YzbZi0/view?usp=share_link
+title: 
+description:
+img: assets/img/fun/img3.jpeg
+redirect: 
 importance: 3
 category: work
 ---

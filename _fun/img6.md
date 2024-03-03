@@ -1,9 +1,9 @@
 ---
 layout: page
-title: The Winning Strategy worth $150000 – CarnegieLearning (Ptich to the CMO)
-description: Developed a remarkable marketing strategy for CarnegieLearning’s Products and delivered the pitch to the Chief Marketing Officer of the company – Mr. Quinn O’Brien and won the competition.
-img:
-redirect: https://drive.google.com/file/d/1LEfEs5T6C9OUmiG3Y70gyCI4tEJScPqW/view?usp=share_link
+title: 
+description:
+img: assets/img/fun/img6.jpeg
+redirect: 
 importance: 3
 category: work
 ---
