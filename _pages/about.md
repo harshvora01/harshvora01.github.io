@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p> A Tech Enthusiast </p>
     <p> Formula 1 Fanatic, and Empathy Advocate! </p>
-
 ---
 
 Hey there! I'm Harsh Vora, and I'm thrilled to take you on a journey through my world. Originally from Santa in Madhya Pradesh, India, I'm currently diving deep into the world of Engineering Management at Duke University.
