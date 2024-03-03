@@ -2,7 +2,7 @@
 layout: page
 title: Spotify Harvard Business Review Case
 description: Analysis of the issues faced by Spotify during the Taylor Swift Controversy and Strategy for Spotify to win the battle.
-img: assets/img/7.jpg
+img:
 redirect: https://drive.google.com/file/d/13ZzS1fvIFo6PelLX0-L-l9clsKntvxho/view?usp=share_link
 importance: 3
 category: work

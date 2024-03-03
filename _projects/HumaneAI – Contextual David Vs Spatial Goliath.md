@@ -2,7 +2,7 @@
 layout: page
 title: HumaneAI – Contextual David Vs Spatial Goliath
 description: Developed a Competitive strategy for HumaneAI to win in the Contextual AI space after the launch of Apple Vision Pro- the Spatial AI miracle.
-img: assets/img/7.jpg
+img:
 redirect: https://drive.google.com/file/d/159O33l9xHqowwh2jqBQ0LY34v-aK-Yf4/view?usp=share_link
 importance: 3
 category: work

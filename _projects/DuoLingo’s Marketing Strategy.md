@@ -2,7 +2,7 @@
 layout: page
 title: DuoLingo’s Marketing Strategy
 description: Developed a creative Marketing Strategy for Duolingo that will help the company capitalize on the market like never before.
-img: assets/img/7.jpg
+img:
 redirect: https://drive.google.com/file/d/1e6c03zBtlyHPOgjgs4JoUNNKUPY7QBsD/view?usp=share_link
 importance: 3
 category: work
