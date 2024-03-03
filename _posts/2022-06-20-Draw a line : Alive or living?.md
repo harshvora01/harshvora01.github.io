@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Draw a line : Alive or living?
+title: Draw a line - Alive or living?
 date: 2022-06-20 17:39:00
 description:
 redirect: https://mindcanopy.wordpress.com/2020/06/22/draw-a-line-alive-or-living/
