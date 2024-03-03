@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Harsh Vora",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "harsh.vora@duke.edu",
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Durham",
+      "countryCode": "USA",
+      "region": "North Carolina"
     },
     "profiles": [
       {
@@ -24,176 +24,161 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Deloitte (India - Offices of the US)",
+      "position": "Business Technology Analyst",
+      "url": "",
+      "startDate": "July 2021",
+      "endDate": "April 2023",
+      "summary": "",
+      "highlights": [
+        "Accelerated invoice and inventory management efficiency by 32% using agile methodologies-led design of 7 cross-platform applications, enhancing delivery speed to customers and overall system scalability , Achieved an 80% reduction in critical software defects during System Integration Testing phase by proactively identifying root causes and strategizing targeted defect resolution sprints using Jira, Transformed user experience metrics like Net Promoter Score and Customer Effort Score and boosted positive user reviews by 20% by enabling business teams with intuitive, no-code tools to rapidly iterate on customer-facing interfaces, Led cross-functional teams of engineers, product managers, and designers to manage full product lifecycles, ensuring consistent alignment with target market demands and overall company growth strategy."
+      ]
+    },
+    {
+      "name": "MyCaptain",
+      "position": "Product Marketing Intern",
+      "url": "",
+      "startDate": "June 2020",
+      "endDate": "Aug 2020",
+      "summary": "",
+      "highlights": [
+        "Catalyzed a 28% surge in sales and a 25% increase in revenue by engineering a dynamic marketing strategy using Python and ML for targeted, personalized ads, Reinforced brand loyalty and achieved a 21% increase in key performance indicators (KPIs) like customer retention by analyzing user feedback and market trends to propose and implement innovative customer loyalty programs, Enhanced user engagement, driving 30% in subscriptions by implementing gamification informed by customer feedback analysis."
+      ]
+    },
+    {
+      "name": "Kalki Communication Technologies Pvt. Ltd",
+      "position": "Product Management Intern",
+      "url": "",
+      "startDate": "June 2019",
+      "endDate": "Aug 2019",
+      "summary": "",
+      "highlights": [
+        "Created an innovative forecast dashboard for Power Generation firms, optimizing electricity distribution and redirecting surplus to achieve an 18% improvement in operational efficiency, resulting in a significant reduction of carbon footprint, Executed the integration of renewable energy forecasting models into the dashboard, facilitating a 20% increase in the utilization of green energy sources leading to reduced reliance on non-renewable resources, Boosted customer retention rate by 22% after interviewing plant managers to prioritize data -driven dashboard enhancements."
+      ]
+    },
+    {
+      "name": "LastRocketHome",
+      "position": "Product Management Student Consultant",
+      "url": "",
+      "startDate": "August 2023",
+      "endDate": "November 2023",
+      "summary": "",
+      "highlights": [
+        "Led the firm’s transformation from consulting to SaaS model, developing a roadmap to enter the $850M predictive analytics space, Crafted 4 detailed user personas and compelling user stories through a design thinking approach, addressing consumer pain points identified by conducting over 60 stakeholder interviews, Forged a pivotal go-to-market (GTM) and product enhancement strategy with the CEO, targeting heightened client satisfaction."
+      ]
+    },
+    {
+      "name": "CycLoan",
+      "position": "Student Product Manager",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "June 2019",
+      "endDate": "November 2019",
+      "summary": "",
+      "highlights": [
+        "• Conducted market analysis for a bike lending service, developing a route-to-market (RTM) strategy that cut initial costs by 20%, increased campus coverage to 90%, and grew the user base by 40%, Performed break-even analysis of MVP, achieving a break-even point of 80 rentals a day and a 65% profit rate."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
+      "organization": "International Society of Automation (ISA-VIT)",
+      "position": "Marketing Head",
       "url": "https://example.com",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "",
+      "highlights": [
+        "Orchestrated the planning and execution of dynamic marketing campaigns, boosting workshop and hackathon participation by 40% and attracting students from diverse universities across the country, Executed the SPARK annual technical festival, attracting 500+ attendees, securing key sponsorships, and featuring distinguished speakers from NASA, ISA Global, and industry leaders in IoT and AI."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Duke University",
+      "location": "Durham, NC, USA",
+      "url": "https://duke.edu/",
+      "area": "Master of Engineering Management with specialization in Product Management",
+      "studyType": "Masters",
+      "startDate": "August 2023",
+      "endDate": "December 2024",
+      "score": "3.9/4.0",
+      "courses": ["Design Thinking, Marketing, Finance, Competitive Strategies, Management in High Tech Companies"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "VIT University",
+      "location": "Vellore, India",
+      "url": "https://vit.ac.in/",
+      "area": "Bachelor of Technology in Computer Science Engineering",
+      "studyType": "Bachelors",
+      "startDate": "July 2017",
+      "endDate": "June 2021",
+      "score": "3.7/4.0",
+      "courses": ["Lean Startup Management, Business Management, Cybersecurity, Database Management Systems"]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Business",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Project Management",
+        "Agile methodologies",
+        "Scrum",
+        "Market research",
+        "Roadmapping",
+        "Competitive analysis",
+        "User experience (UX)",
+        "A/B testing",
+        "Wireframing",
+        "API integration",
+        "Cross-functional collaboration",
+        "Data visualization",
+        "Data analytics",
+        "Documentation",
+        "User research",
+        "CRM",
+        "Product design",
+        "Troubleshooting",
+        "Product portfolio",
+        "Strategic marketing",
+        "Market segmentation"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Technical",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "JIRA",
+        "Power BI",
+        "SAP",
+        "Tableau",
+        "Java",
+        "JavaScript",
+        "No-code/low-code",
+        "Web development",
+        "App development",
+        "SQL",
+        "HTML",
+        "CSS",
+        "ReactJS",
+        "XML",
+        "MySQL",
+        "Git",
+        "AWS",
+        "Azure",
+        "UI/UX",
+        "Cybersecurity",
+        "AI/ML",
+        "Python",
+        "R",
+        "MATLAB",
+        "Figma",
+        "Flutter",
+        "User interface UI/UX",
+        "Excel"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
