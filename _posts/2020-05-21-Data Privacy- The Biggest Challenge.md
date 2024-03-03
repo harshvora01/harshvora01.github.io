@@ -1,9 +1,0 @@
----
-layout: post
-title: Data Privacy- The Biggest Challenge
-date: 2020-05-21 17:39:00
-description:
-redirect: https://mindcanopy.wordpress.com/2020/05/21/data-privacy-the-biggest-challenge/
----
-
-Redirecting to another page.
