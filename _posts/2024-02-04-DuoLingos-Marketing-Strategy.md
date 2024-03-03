@@ -11,7 +11,7 @@ images:
   slider: true
 ---
 
-Developed a creative Marketing Strategy for Duolingo that will help the company capitalize on the market like never before. 
+Developed a creative Marketing Strategy for Duolingo that will help the company capitalize on the market like never before.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
