@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: DuoLingo’s Marketing Strategy
+description: Developed a creative Marketing Strategy for Duolingo that will help the company capitalize on the market like never before.
+img: assets/img/7.jpg
+redirect: https://drive.google.com/file/d/1e6c03zBtlyHPOgjgs4JoUNNKUPY7QBsD/view?usp=share_link
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

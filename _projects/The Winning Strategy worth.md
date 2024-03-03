@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: The Winning Strategy worth $150000 – CarnegieLearning (Ptich to the CMO)
+description: Developed a remarkable marketing strategy for CarnegieLearning’s Products and delivered the pitch to the Chief Marketing Officer of the company – Mr. Quinn O’Brien and won the competition.
+img: assets/img/7.jpg
+redirect: https://drive.google.com/file/d/1LEfEs5T6C9OUmiG3Y70gyCI4tEJScPqW/view?usp=share_link
+importance: 3
 category: work
-related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -44,8 +44,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
