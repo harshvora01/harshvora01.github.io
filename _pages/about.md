@@ -18,4 +18,4 @@ Hey there! I'm Harsh Vora, and I'm thrilled to take you on a journey through my 
 When I'm not buried in coursework, you'll likely find me engrossed in Formula 1 racing strategies, writing about my adventures, or soaking in the melodies of my favorite tunes. And let's not forget my love for adventure sports and bike rides – nothing beats the thrill of adrenaline!
 
 My journey has been shaped by incredible experiences, like my time with the [International Society of Automation (ISA)](https://www.isa.org/), where I explored robotics and collaborative innovation. Now, at Duke, I'm diving into areas like Design Thinking and Marketing Strategies, always with an eye toward making a positive impact in the world.
-So, whether it's discussing the latest tech trends or sharing stories from the racetrack, I'm here to connect, learn, and grow with you. Let's embark on this adventure together!
+So, whether it's discussing the latest tech trends or sharing stories from the racetrack, I'm here to connect, learn, and grow with you. Let's embark on this adventure together! 
