@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: none
 title:
 description:
 img: assets/img/fun/img1.jpeg
