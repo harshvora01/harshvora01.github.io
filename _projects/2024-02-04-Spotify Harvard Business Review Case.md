@@ -5,6 +5,7 @@ date: 2024-01-27 11:46:00
 description: Analysis of the issues faced by Spotify during the Taylor Swift Controversy and Strategy for Spotify to win the battle.
 tags:
 categories:
+importance: 3
 thumbnail: assets/img/9.jpg
 images:
   compare: true

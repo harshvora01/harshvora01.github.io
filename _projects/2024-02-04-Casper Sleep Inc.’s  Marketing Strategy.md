@@ -6,6 +6,7 @@ description: Designed a fun and effective marketing strategy for the newly devel
 tags:
 categories:
 img:
+importance: 3
 redirect:
 thumbnail: assets/img/9.jpg
 images:
