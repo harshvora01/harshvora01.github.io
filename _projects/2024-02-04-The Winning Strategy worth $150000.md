@@ -5,6 +5,7 @@ date: 2024-01-27 11:46:00
 description: Developed a remarkable marketing strategy for CarnegieLearning’s Products and delivered the pitch to the Chief Marketing Officer of the company – Mr. Quinn O’Brien and won the competition.
 tags:
 categories:
+importance: 1
 thumbnail: assets/img/9.jpg
 images:
   compare: true
