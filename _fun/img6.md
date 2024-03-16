@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description:
+description: The Love of my life!
 img: assets/img/fun/img6.jpeg
 redirect:
 importance: 3
