@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description:
+description: Just Harry Potter Things!
 img: assets/img/fun/img9.jpeg
 redirect:
 importance: 3
