@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description:
+description: Lunar New Year!
 img: assets/img/fun/img7.jpeg
 redirect:
 importance: 3
