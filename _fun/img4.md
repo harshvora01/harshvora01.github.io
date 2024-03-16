@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description:
+description: Trekking!!
 img: assets/img/fun/img4.jpeg
 redirect:
 importance: 3
