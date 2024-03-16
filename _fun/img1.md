@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description:
+description: Wannabe Photographer
 img: assets/img/fun/img1.jpeg
 redirect:
 importance: 3
