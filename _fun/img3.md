@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description:
+description: I love Fake Rock Climbing!
 img: assets/img/fun/img3.jpeg
 redirect:
 importance: 3
