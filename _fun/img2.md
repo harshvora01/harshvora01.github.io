@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description:
+description: Cutest Smile Ever!
 img: assets/img/fun/img2.jpeg
 redirect:
 importance: 3
