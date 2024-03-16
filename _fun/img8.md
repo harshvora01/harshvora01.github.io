@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description:
+description: My Everything! Grateful Forever.
 img: assets/img/fun/img8.jpeg
 redirect:
 importance: 3
