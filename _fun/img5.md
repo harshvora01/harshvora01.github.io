@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description:
+description: I was careful, I swear!
 img: assets/img/fun/img5.jpeg
 redirect:
 importance: 3
